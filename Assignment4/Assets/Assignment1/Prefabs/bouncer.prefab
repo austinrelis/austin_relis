@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 50513936262000290}
   - component: {fileID: 58286970322168354}
   m_Layer: 0
-  m_Name: Hexagon
+  m_Name: bouncer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
